@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/drawable/box1.xml" value="0.2195" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/drawable/box2.xml" value="0.2195" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/drawable/buvname.xml" value="0.2195" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/drawable/buvname2.xml" value="0.2095" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/drawable/cart_box.xml" value="0.1165" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/drawable/chekeout.xml" value="0.1" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1315" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/drawable/ic_baseline_post_add_24.xml" value="0.1315" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/drawable/ic_baseline_remove_circle_outline_24.xml" value="0.19" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/drawable/location.xml" value="0.2195" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/drawable/selecter_user.xml" value="0.207" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/activity_add_menu.xml" value="0.33" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/activity_cart.xml" value="0.25" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/activity_login_ui.xml" value="0.22447916666666667" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/activity_order.xml" value="0.33" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/activity_recharge.xml" value="0.22" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/activity_register.xml" value="0.22447916666666667" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/admin_menu_article.xml" value="0.2125" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/article.xml" value="0.33" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/cart_item.xml" value="0.33" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/manu_item.xml" value="0.2125" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/menu_item.xml" value="0.25" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/layout/order.xml" value="0.5" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/menu/menu_admin.xml" value="0.2125" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/menu/user_menu.xml" value="0.20833333333333334" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/mipmap-anydpi-v26/mealdropic_round.xml" value="0.231" />
+        <entry key="..\:/Android prg/app_tuto/app/src/main/res/mipmap-anydpi-v26/mealdropicon_round.xml" value="0.231" />
+        <entry key="..\:/android_project/app_tuto/app/src/main/res/drawable/box1.xml" value="0.183" />
+        <entry key="..\:/android_project/app_tuto/app/src/main/res/drawable/box2.xml" value="0.183" />
+        <entry key="..\:/android_project/app_tuto/app/src/main/res/drawable/buvname.xml" value="0.183" />
+        <entry key="..\:/android_project/app_tuto/app/src/main/res/drawable/buvname2.xml" value="0.183" />
+        <entry key="..\:/android_project/app_tuto/app/src/main/res/layout/activity_add_menu.xml" value="0.33" />
+        <entry key="..\:/android_project/app_tuto/app/src/main/res/layout/activity_login_ui.xml" value="0.25" />
+        <entry key="..\:/android_project/app_tuto/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/android_project/app_tuto/app/src/main/res/layout/activity_register.xml" value="0.21302083333333333" />
+        <entry key="..\:/android_project/app_tuto/app/src/main/res/layout/article.xml" value="0.21302083333333333" />
+        <entry key="..\:/copie apptoto/Meal Drop USDB/app/src/main/res/layout/activity_cart.xml" value="0.168359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

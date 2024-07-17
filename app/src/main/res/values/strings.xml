@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Meal Drop</string>
+    <string-array name="menuType">
+        <item> Pizza</item>
+        <item> Burger </item>
+        <item> drink </item>
+        <item> Sandwitch  </item>
+        <item> Plat </item>
+        <item> Dessert </item>
+    </string-array>
+    <string-array name="pavillon">
+        <item>Blebliotheque central</item>
+        <item>Bebliotheque Archi</item>
+        <item>Bebliotheque Medcine</item>
+        <item>faculte Medcine</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>25</item>
+
+    </string-array>
+    <string-array name="salle">
+        <item>la cour</item>
+        <item>departement</item>
+        <item>salle de prof</item>
+        <item>salle pricis ajouter au description de commande</item>
+    </string-array>
+
+    <string name="main_hi">Salut ,</string>
+    <string name="main_geust">Visiteur</string>
+    <string name="main_welcom">Bienvenue a USDB, quelle est votre commande</string>
+
+    <string name="cart_order_instruction">Commande instruction :</string>
+    <string name="cart_user_instruction">Instruction d\'utulisateur :</string>
+    <string name="cart_radio_localcmd">Commande locale</string>
+    <string name="cart_radio_delevery">Livraison</string>
+    <string name="cart_chose_youradresse">choisissez votre adresse</string>
+    <string name="cart_checkout">Commander</string>
+
+    <string name="loginui_inscrire">  inscrit-vous</string>
+    <string name="loginui_pasinscrire">vous n\'etes pas inscrire ? </string>
+    <string name="login_visiteur">acceder comme un visiteur ?</string>
+
+
+
+</resources>

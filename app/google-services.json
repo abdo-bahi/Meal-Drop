@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906440172381",
+    "project_id": "apptuto-50a14",
+    "storage_bucket": "apptuto-50a14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906440172381:android:eb4af4ee8f2d5379147eb4",
+        "android_client_info": {
+          "package_name": "com.example.apptuto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906440172381-amcqjbf3jnfv4t5a1qaoet17eietbo18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvT4g5q_oHKL5hGwrZcXsYIAFkAIojrBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906440172381-amcqjbf3jnfv4t5a1qaoet17eietbo18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
